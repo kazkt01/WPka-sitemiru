@@ -9,9 +9,24 @@ function Design() {
       <section>
         <div className="design-box">
           <div className="d-item">
-            <h2>Photoshop</h2>
+            <h2>Udemy Study 01</h2>
             <figure>
-              <img src="" alt="" />
+              <img
+                className="u-study"
+                src="../src/assets/image/g-study.png"
+                alt=""
+              />
+              <h3>基本操作を理解できました</h3>
+              <p>
+                IllustratorとPhotoshopの基本操作を理解するするために学習しました
+              </p>
+              <p>URL:</p>
+              <a
+                href="https://www.udemy.com/share/108m0q3@esz6zr7eeefyJh_5outun_pV-4lVolG0cgPsbh_fGQ5sNsrx0Zm8kV8MKKHOZRsPXw==/"
+                target="_blank"
+              >
+                https://www.udemy.com/share/108m0q3@esz6zr7eeefyJh_5outun_pV-4lVolG0cgPsbh_fGQ5sNsrx0Zm8kV8MKKHOZRsPXw==/
+              </a>
             </figure>
           </div>
           <div className="d-item">
