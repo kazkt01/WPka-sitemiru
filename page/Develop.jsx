@@ -2,7 +2,7 @@ import Footer from "../components/Footer";
 import Header from "../components/Header";
 import "../style/Portfolio.css";
 
-function Portfolio() {
+function Develop() {
   return (
     <div>
       <Header />
@@ -40,4 +40,4 @@ function Portfolio() {
   );
 }
 
-export default Portfolio;
+export default Develop;

@@ -26,7 +26,7 @@ function Header() {
             </a>
           </li>
           <li className="li-box">
-            <a href="/portfolio" className="h-link">
+            <a href="/develop" className="h-link">
               Develop
             </a>
           </li>
@@ -62,7 +62,7 @@ function Header() {
             </a>
           </li>
           <li className="sp-li">
-            <a href="/portfolio" className="sp-link">
+            <a href="/develop" className="sp-link">
               Develop
             </a>
           </li>
